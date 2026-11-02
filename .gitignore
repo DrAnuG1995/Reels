@@ -1,0 +1,7 @@
+footage/*
+!footage/.gitkeep
+out/*
+!out/.gitkeep
+music/*.wav
+catalogue/
+*_work/

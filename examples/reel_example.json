@@ -1,0 +1,15 @@
+{
+  "out": "out/example.mp4",
+  "cards": [
+    {"text": "What is a locum doctor?", "clip": "footage/hospital_sign.mov", "start": 3.0},
+    {"text": "A registered doctor who fills a gap in a roster", "clip": "footage/corridor_walk.mov"},
+    {"text": "Leave. An unfilled job. A busy season.", "clip": "footage/ambulances_night.mov"},
+    {"text": "One shift, or a few months", "clip": "footage/motel_key.mov", "start": 0.3},
+    {"text": "3 ways in: an agency, direct with the hospital,", "clip": "footage/phone_call.mov"},
+    {"text": "or joining a hospital's own locum bank", "clip": "footage/app_screen.mp4", "start": 21}
+  ],
+  "end": ["Same patients. Same responsibility.", "A different town each time."],
+  "music": "music/track01.wav",
+  "logo": "assets/logo.png",
+  "blur_boxes": []
+}
